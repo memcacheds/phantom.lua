@@ -11,7 +11,7 @@ local settings = {
 
 
     headshotchanceenabled = false,
-    headshotchance = 25,
+    headshotchance = 8,
 
     --
 
